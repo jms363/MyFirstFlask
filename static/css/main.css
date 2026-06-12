@@ -6,7 +6,7 @@ body {
 p {
     color: white;
     font-family: Calibri;
-    font-size: 1.2em;
+    font-size: 1.4em;
     margin: 20px;
 }
 
@@ -22,7 +22,7 @@ input {
     border: none;
     border-radius: 10px;
     font-family: Calibri;
-    font-size: 1.3em;
+    font-size: 1.6em;
     text-align: center;
 }
 
